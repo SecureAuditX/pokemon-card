@@ -5,7 +5,7 @@ import PokemonCard from './components/PokemonCard';
 export default function App() {
   // Charmander character
     const charmanderData = {
-        name: "charmander",
+        name: "Charmander",
         image: require("./assets/charmander.png"),
         type: "Fire",
         hp: 39,
