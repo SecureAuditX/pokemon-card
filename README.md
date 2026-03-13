@@ -52,9 +52,9 @@ A beautiful and interactive Pokémon Card application built with React Native an
 
 #### 1. Component Architecture
 
-* Created reusable `PokemonCard` component
-* Implemented props-based data passing for dynamic content
-* Built functional components with proper prop destructuring
+* Created reusable `PokemonCard` component.
+* Implemented props-based data passing for dynamic content.
+* Built functional components with proper prop destructuring.
 
 #### 2. Styling & Layout
 
